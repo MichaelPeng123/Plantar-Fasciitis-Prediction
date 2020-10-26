@@ -1,4 +1,4 @@
-# synopsysProject
+# Plantar Fasciitis Prediction Diagnosis Tool
 
 Instructions For Usage:
 1. Download Both Datasets
@@ -12,3 +12,6 @@ ignore those
 
 Demo Video:
 https://www.youtube.com/watch?v=Rtc5fLSZ0dc
+
+Detailed Project Found here:
+https://drive.google.com/drive/folders/1y8hjC2oPE6Y8HEOHJ2Pa9vK9DwhGrNgd?usp=sharing
