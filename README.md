@@ -1,6 +1,6 @@
 # Plantar Fasciitis Prediction Diagnosis Tool
 
-Instructions For Usage
+Instructions For Usage:
 1. Download Both Datasets
 2. Make sure they are named synopsisData.csv and usingData.csv
 3. Open Code in Jupyter Notebook using Anaconda Navigator (It must be opened using
