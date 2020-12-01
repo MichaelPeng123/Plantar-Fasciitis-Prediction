@@ -1,6 +1,7 @@
 # Plantar Fasciitis Prediction Diagnosis Tool
 
 Plantar fasciitis risk diagnosis with machine learning analysis to encourage safe and efficient running form
+
 Names: Michael Peng and Ricky Wang
 
 Background Information:
