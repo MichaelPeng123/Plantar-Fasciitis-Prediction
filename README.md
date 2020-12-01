@@ -13,5 +13,5 @@ ignore those
 Demo Video:
 https://www.youtube.com/watch?v=Rtc5fLSZ0dc
 
-Detailed Project Found here:
+Detailed Project Design Found here:
 https://drive.google.com/drive/folders/1y8hjC2oPE6Y8HEOHJ2Pa9vK9DwhGrNgd?usp=sharing
