@@ -15,7 +15,7 @@ Because poor running mechanics are a proven cause of plantar fasciitis, we used 
 
 Results:
 Our model found that the impulse and maximum force values reached when the foot of a runner strikes the ground are contributing factors to plantar fasciitis, as they exhibit a strong positive linear relationship with the probability of runners contracting plantar fasciitis. Contact area, which was measured through shoe size, exhibits a less obvious correlation. Our model ultimately predicted the test data set with an accuracy of 82.9%, which is high considering that predictions were based solely off of attributes of running mechanics. In addition to a diagnosis and risk factor, we provide visualization tools that offer insight into the main variables that contribute to plantar fasciitis, specific to each athlete's condition. Applying our studies to running mechanics, we concluded that preventing heel striking and increasing stride speed are possible solutions to preventing variables analyzed in causing plantar fasciitis, as these two tecniques minimize max force and impulse.
-f
+
 Further Research:
 1. Other diseases such as shin splints, heel spur, etc.
 2. Multiclass logistic regression for multiple injuries
