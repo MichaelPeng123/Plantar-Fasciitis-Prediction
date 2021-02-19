@@ -2,7 +2,7 @@
 
 Plantar fasciitis risk diagnosis with machine learning analysis to encourage safe and efficient running form
 
-Names: Michael Peng and Ricky Wang
+Names: Michael Peng and Ricky Wang/
 
 Background Information:
 Plantar fasciitis is an extremely common heel condition that inhibits the lives of over 1% of the adult US population, with athletes being especially prone to injury. Plantar fasciitis could take over 6 months to recover from while under active treatment, and in worst cases, surgery is required, extending the recovery time to over 9 months. Currently, there is no method of determining whether an athlete’s running mechanics contribute to their risk of getting plantar fasciitis, despite poor running mechanics being a key cause of the condition.
